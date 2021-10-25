@@ -33,7 +33,7 @@ intro:
     #     sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-  Project Nectar is the ultimate bot for growing your NFT collection and turning your extra liquitiy into profit.
+    Project Nectar is the ultimate bot for growing your NFT collection and turning your extra liquitiy into profit.
 main:
   heading: Great service with no compromises
   description: >
